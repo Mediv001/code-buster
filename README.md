@@ -1,2 +1,2 @@
-# code-buster
-Will be removed after some days
+# code-busters
+Code Busters interview. Will be removed after some days
