@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/code-buster/static/css/main.3302a3dc.css",
-    "main.js": "/code-buster/static/js/main.52244295.js",
+    "main.js": "/code-buster/static/js/main.2958d7e3.js",
     "static/js/787.7e0b23c5.chunk.js": "/code-buster/static/js/787.7e0b23c5.chunk.js",
     "static/media/busqueda.svg": "/code-buster/static/media/busqueda.bc4a9b45ee2fb3879a4fae89e7fea619.svg",
     "index.html": "/code-buster/index.html",
     "main.3302a3dc.css.map": "/code-buster/static/css/main.3302a3dc.css.map",
-    "main.52244295.js.map": "/code-buster/static/js/main.52244295.js.map",
+    "main.2958d7e3.js.map": "/code-buster/static/js/main.2958d7e3.js.map",
     "787.7e0b23c5.chunk.js.map": "/code-buster/static/js/787.7e0b23c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3302a3dc.css",
-    "static/js/main.52244295.js"
+    "static/js/main.2958d7e3.js"
   ]
 }
