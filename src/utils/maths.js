@@ -15,7 +15,7 @@ export const averageValue = (arr = []) => {
 
 export const medianValue = (arr = []) => {
     if (arr.length) {
-        const sortedArr = arr.sort()
+        const sortedArr = arr.sort((a,b) => a - b)
         const length = sortedArr.length
         const middleIndex = parseInt(sortedArr.length / 2)
         if (length % 2 === 1) {
