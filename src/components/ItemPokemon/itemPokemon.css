@@ -1,0 +1,38 @@
+.container-flex {
+    display: flex;
+    gap: 8px;
+}
+
+.rounded {
+    border-radius: 8px;
+}
+
+.big-rounded {
+    border-radius: 32px;
+}
+
+.center-all {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.bg-light {
+    background-color: whitesmoke;
+}
+
+.button-selected {
+    border: 4px solid black;
+    color: white;
+    font-weight: 500;
+    background-color: cadetblue;
+}
+
+.item-pokemon-container {
+    border-radius: 32px 0px 0px 32px;
+    border: 2px solid black;
+}

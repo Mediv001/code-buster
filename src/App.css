@@ -1,0 +1,101 @@
+html,
+body,
+.page {
+  height: 100%;
+}
+
+body {
+  overflow: hidden;
+}
+
+.page {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  flex: 0 0 auto;
+  border-bottom: 1px solid black;
+  padding: 8px;
+  color: whitesmoke;
+  font-size: 24px;
+  /* font-family: cursive; */
+  font-weight: bold;
+  /* justify-content: space-between; */
+  display: flex;
+  align-items: center;
+}
+
+.content {
+  flex: 1 1 auto;
+  position: relative;
+  overflow-y: hidden;
+  display: flex;
+  background-color: lightsteelblue;
+  gap: 8px;
+}
+
+/* .footer {
+  flex: 0 0 auto;
+  background-color: #dcdcdc;
+} */
+
+.content-left {
+  width: 25%;
+  overflow: auto;
+  border-right: 1px solid black;
+  padding: 16px;
+}
+
+.content-main {
+  width: 50%;
+  overflow: auto;
+  border: 1px 0px 0px 10px black;
+  padding: 8px;
+}
+
+.content-right {
+  width: 25%;
+  overflow: auto;
+  border-left: 1px solid black;
+  padding: 16px;
+}
+
+/* in Code */
+
+.clickable {
+  cursor: pointer;
+}
+
+.padding-vertical {
+  padding: 8px 0px 8px 8px;
+}
+
+.border {
+  border: 1px solid black;
+}
+
+.button-base {
+  padding: 8px;
+  border-radius: 8px;
+}
+
+.font-black {
+  color: black;
+}
+
+.circle {
+  border-radius: 50%;
+}
+
+.justify-text {
+  text-align: justify;
+}
+
+.line-separator {
+  border-bottom: 2px solid black;
+}
+
+.min-width-team {
+  min-width: 350px;
+}

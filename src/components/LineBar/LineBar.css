@@ -1,0 +1,30 @@
+.linebar-content {
+    height: 16px;
+    border-radius: 8px;
+    flex: 1 1 auto;
+    position: relative;
+    overflow-y: hidden;
+    display: flex;
+    gap: 8px;
+
+}
+
+.content-data {
+    background-color: darkseagreen;
+}
+
+.content-complete {
+    background-color: bisque;
+}
+
+.line-height {
+    height: 16px;
+}
+
+.flex-base {
+    display: flex;
+}
+
+.no-margin {
+    margin: 0;
+}

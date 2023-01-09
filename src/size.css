@@ -1,0 +1,30 @@
+/* size */
+
+.small-font-size {
+    font-size: smaller;
+}
+
+.quarter-width {
+    width: 25%;
+}
+
+.full-height {
+    height: 100%;
+}
+
+.size-sprite {
+    min-width: 112px;
+    min-height: 112px;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.min-width-at-icon-size {
+    min-width: 200px;
+}
