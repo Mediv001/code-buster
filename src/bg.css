@@ -1,0 +1,17 @@
+/* bg */
+
+.bg-white {
+    background-color: whitesmoke;
+}
+
+.bg-base {
+    background-color: cadetblue;
+}
+
+.bg-light-blue {
+    background-color: darkseagreen;
+}
+
+.bg-red {
+    background-color: lightgray;
+}

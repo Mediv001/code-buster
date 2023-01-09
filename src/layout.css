@@ -1,0 +1,59 @@
+.flex-vertical-center {
+    display: flex;
+    align-items: center;
+}
+
+.flex-vertical {
+    display: flex;
+    flex-direction: column;
+}
+
+.spacing-max {
+    justify-content: space-between;
+}
+
+.spacing-around {
+    justify-content: space-around;
+}
+
+.position-absolute {
+    position: absolute;
+}
+
+.flex-center {
+    display: flex;
+    align-items: center;
+}
+
+.flex-horizontal-with-gap {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+
+.flex-vertical-with-gap {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+}
+
+.gap-base-x2 {
+    gap: 16px;
+}
+
+.base-gap {
+    gap: 8px;
+}
+
+.margin-bot-base {
+    margin-bottom: 8px;
+}
+
+.padding-bot-base {
+    padding-bottom: 8px;
+}
